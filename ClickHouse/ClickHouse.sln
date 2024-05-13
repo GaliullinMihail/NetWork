@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickHouse", "ClickHouse\ClickHouse.csproj", "{85708266-F384-4F4B-A402-0B190026AE09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CassandraProj", "CassandraProj\CassandraProj.csproj", "{5953D96E-F944-4DB0-BCBE-90A41F68F12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85708266-F384-4F4B-A402-0B190026AE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85708266-F384-4F4B-A402-0B190026AE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85708266-F384-4F4B-A402-0B190026AE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85708266-F384-4F4B-A402-0B190026AE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5953D96E-F944-4DB0-BCBE-90A41F68F12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5953D96E-F944-4DB0-BCBE-90A41F68F12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5953D96E-F944-4DB0-BCBE-90A41F68F12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5953D96E-F944-4DB0-BCBE-90A41F68F12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
